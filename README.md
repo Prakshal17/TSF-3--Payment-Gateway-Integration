@@ -2,6 +2,7 @@
 The Sparks Foundation Internship Task3 : Payment Gateway Intergation 
 
 A simple website where payment gateway "RAZORPAY" is integrated through a donate button. 
+
 On Clicking the Donate button, the user will land on the payment gateway by razorpay where
 user can enter the choice of amount to be donated and the payment type, e.g. credit card, UPI, Netbanking etc.
 
