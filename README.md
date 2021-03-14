@@ -1,5 +1,5 @@
 # TSF-3--Payment-Gateway-Integration
-The Sparks Foundation Internship Task3 : Payment Gateway Intergation 
+The Sparks Foundation Internship Task#3 : Payment Gateway Intergation 
 
 A simple website where payment gateway "RAZORPAY" is integrated through a donate button. 
 
